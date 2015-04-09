@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf ("Hello Word \n \n");
-    system ("PAUSE");
+    printf ("Hello little big World, This is My proyect \n \n");
     return 0;
 }

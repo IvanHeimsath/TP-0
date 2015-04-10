@@ -1,8 +1,0 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-int main()
-{
-    printf ("Hello little big World, This is My proyect \n \n");
-    return 0;
-}

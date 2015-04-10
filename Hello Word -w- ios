@@ -5,5 +5,4 @@ using namespace std;
 int main()
 {
     cout << "Hello little big world!" << endl;
-    return 0;
 }

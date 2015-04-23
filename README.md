@@ -1,4 +1,2 @@
-# TP-0
-Ivan Ezequiel Heimsath - K1091
--Hello World-
+TP#0 "Hola Mundo"
 
